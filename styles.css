@@ -1,12 +1,12 @@
 
 :root {
-  --primary-hue: 250;
-  --primary-sat: 89%;
-  --primary-light: 59%;
+  --primary-hue: 200; 
+  --primary-sat: 85%;
+  --primary-light: 50%;
   --primary: hsl(var(--primary-hue), var(--primary-sat), var(--primary-light));
-  --secondary: #ff6b6b;
-  --background: #f8f9fa;
-  --text: #2d3436;
+  --secondary: #ff8c42; 
+  --background: #f0f4f8;
+  --text: #1e293b; 
   --transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
 }
 
